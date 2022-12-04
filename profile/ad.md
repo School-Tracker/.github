@@ -1,5 +1,5 @@
 # Normal
-
+```md
 **School Tracker**
 > Creating high-quality software for students, helping them achieve their personal and academic goals. Made by students, for students.
 
@@ -11,9 +11,9 @@
 [Alpha Website](https://alpha.schooltracker.app)
 [Discord](https://alpha.schooltracker.app/discord)
 [GitHub](https://alpha.schooltracker.app/github)
-
+```
 # Discord Message Friendly
-
+```md
 **School Tracker**
 > Creating high-quality software for students, helping them achieve their personal and academic goals. Made by students, for students.
 
@@ -25,3 +25,4 @@
 Alpha Website - https://alpha.schooltracker.app
 Discord - https://alpha.schooltracker.app/discord
 GitHub - https://alpha.schooltracker.app/github
+```
