@@ -18,6 +18,7 @@ Creating high-quality software for students, helping them achieve their personal
 5.) 💵I would like to sponsor you how can I do this?
 > If you would like to sponsor us, send up an email [contact@schooltracker.app](mailto:contact@schooltracker.app?subject=Looking%20to%20become%20a%20sponser).
 
+[Join Our Discord Server](https://discord.gg/4ZbnjTVDpr)
 
 ### Our Team
 [Shawn Engmann](https://shawnengmann.com) - Lead Project Developer <br/>
