@@ -12,7 +12,7 @@ Creating high-quality software for students, helping them achieve their personal
 3.) ⏳When do you expect the first version of the app to be out?
 > We hope and expect to release the first verion of the app before December 25, 2022. 
 
-4.) 📱How can I contact you guys.
+4.) 📱How can I contact you guys?
 > You can contact us through our email [contact@schooltracker.app](mailto:contact@schooltracker.app)
 
 
