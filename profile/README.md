@@ -15,8 +15,8 @@ Creating high-quality software for students, helping them achieve their personal
 4.) 📱How can I contact you guys?
 > You can contact us through our email [contact@schooltracker.app](mailto:contact@schooltracker.app?subject=Looking%20to%20talk%20about%20School%20Tracker).
 
-5.) 💵I would like to sponser you how can I do this?
-> If you would like to sponser us, send up an email [contact@schooltracker.app](mailto:contact@schooltracker.app?subject=Looking%20to%20become%20a%20sponser).
+5.) 💵I would like to sponsor you how can I do this?
+> If you would like to sponsor us, send up an email [contact@schooltracker.app](mailto:contact@schooltracker.app?subject=Looking%20to%20become%20a%20sponser).
 
 
 ### Our Team
