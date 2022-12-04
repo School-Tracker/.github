@@ -7,7 +7,7 @@ Creating high-quality software for students, helping them achieve their personal
 > The purpose of our project is for students to be able to track upcoming assignments, projects, text, and quizzes so that they can stay better organized and so they never forget something again. 
 
 2.) 💻What is your app built in?
-> For the frontend we use `Next.JS`, `TailwindCSS`, `DaisyUI` and our backend iis built using `TypeScript`.
+> For the frontend we use `Next.JS`, `TailwindCSS`, `DaisyUI` and our backend is built using `TypeScript`.
 
 3.) ⏳When do you expect the first version of the app to be out?
 > We hope and expect to release the first verion of the app before December 25, 2022. 
