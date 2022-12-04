@@ -17,6 +17,6 @@ Creating high-quality software for students, helping them achieve their personal
 
 
 ### Our Team
-[Shawn Engmann](https://shawnengmann.com) - Lead Project Developer
+[Shawn Engmann](https://shawnengmann.com) - Lead Project Developer <br/>
 [Luis Quezada](https://quezada.nl) - Lead Project Developer
  
